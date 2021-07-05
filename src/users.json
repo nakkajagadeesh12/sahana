@@ -1,0 +1,52 @@
+{
+  "usersDetails": [
+    {
+      "name": "Asuthosh Mishra",
+      "emailID": "asuthosh12@gmail.com",
+      "mobileNo": "12345",
+      "gender": "Male",
+      "address1": "Annika nagar",
+      "address2": "Suchin District-234432",
+      "city": "Babaloon",
+      "state": "Coplin",
+      "pincode": "234432",
+      "country": "Vibrese"
+    },
+    {
+      "name": "Vikranth Shetty",
+      "emailID": "vikranth12@gmail.com",
+      "mobileNo": "12346",
+      "gender": "Male",
+      "address1": "baklon nagar",
+      "address2": "Vektan District-234433",
+      "city": "Cactus",
+      "state": "Vadlik",
+      "pincode": "234433",
+      "country": "Citlin"
+    },
+    {
+      "name": "Shrishti Sharma",
+      "emailID": "shrishti12@gmail.com",
+      "mobileNo": "12347",
+      "gender": "Female",
+      "address1": "Annika nagar",
+      "address2": "Bandrik district-234434",
+      "city": "Babaloon",
+      "state": "Coplin",
+      "pincode": "234434",
+      "country": "Vibrese"
+    },
+    {
+      "name": "Narian Mishra",
+      "emailID": "narian12@gmail.com",
+      "mobileNo": "12348",
+      "gender": "Male",
+      "address1": "Sobrit Nagar",
+      "address2": "Victon district-234435",
+      "city": "Citriun",
+      "state": "Bacoon",
+      "pincode": "234435",
+      "country": "Barbise"
+    }
+  ]
+}
