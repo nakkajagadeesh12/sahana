@@ -70,23 +70,7 @@ button {
   border-radius: 10px;
 }
 
-.user-form-container {
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  background-color: #e6ddc6;
-  top: 0;
-  margin: 0;
-}
 
-.user-form-block {
-  position: relative;
-  top: 5%;
-  width: 80%;
-  height: 80%;
-  text-align: center;
-  margin: 0 auto;
-}
 
 .form-button button:active {
   background-color: gray;
@@ -121,6 +105,25 @@ button {
 
 .userDetail-Section .details div {
   text-align: center;
+}
+
+.user-form-container {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  margin: 0;
+}
+
+.user-form-block {
+  position: relative;
+  background-color: white;
+  border: 2px solid #053742;
+  border-radius: 5px;
+  width: 80%;
+  height: 80%;
+  text-align: center;
+  margin: 0 auto;
 }
 
 
