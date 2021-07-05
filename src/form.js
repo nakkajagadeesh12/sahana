@@ -48,6 +48,7 @@ function Form({ formData, setFormData }) {
         </div>
         <div>
           <select name="gender" id="gender" onChange={(e) => updateData(e)}>
+            <option>Select</option>
             <option value="male">Male</option>
             <option value="female">Female</option>
           </select>

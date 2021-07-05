@@ -1,21 +1,13 @@
 .container {
   display: flex;
-  /* background-color: cadetblue; */
-  /* align-items: stretch; */
-  height: 100%;
 }
 
 .container div {
   margin-top: 2%;
-  /* height: 100%; */
-  /* background-color: cadetblue; */
 }
 
 .container .users-Section {
   margin-top: 1%;
-  /* height: 100%; */
-  /* background-color: #212529; */
-  /* background-color: violet; */
 }
 
 .users-Section {
@@ -29,7 +21,6 @@
   border: none;
   border-bottom: 1px solid black;
   height: 80%;
-  /* border-radius: 5px; */
 }
 
 .users-Section div input:focus {
@@ -132,17 +123,4 @@ button {
   text-align: center;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
