@@ -56,6 +56,7 @@ function App() {
     let newData = JSON.parse(
       JSON.stringify(datas.length > 0 ? datas : userData)
     );
+    setUserDetails({});
     setSearchData(newData.filter((data) => data.name.includes(searchUser)));
   }, [searchUser]);
 
@@ -124,3 +125,5 @@ function App() {
 }
 
 export default App;
+
+
